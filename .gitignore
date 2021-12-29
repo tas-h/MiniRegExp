@@ -1,0 +1,5 @@
+.VS/
+Library/RegExpService/bin/
+Library/RegExpService/obj/
+Product/MiniRegExp/bin/
+Product/MiniRegExp/obj/
